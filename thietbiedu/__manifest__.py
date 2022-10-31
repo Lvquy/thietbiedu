@@ -17,6 +17,7 @@
         # views
         'views/hide_add_to_cart_btn.xml',
         'views/custom_footer.xml',
+        'views/confirm_google.xml',
 
     ],
 
