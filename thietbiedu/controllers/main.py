@@ -7,4 +7,4 @@ class Thietbiedu(http.Controller):
 
     @http.route(['/google51aebbe99d6bf534.html'], auth='public', website=True)
     def google_search(self, **kw):
-        return request.render('quang_cao.google51aebbe99d6bf534')
+        return request.render('thietbiedu.google51aebbe99d6bf534')
